@@ -1,3 +1,4 @@
+<pre>
 [Global flags ranges]
       int AVX3Threshold                                      [ 0                         ...                2147483647 ]                    {ARCH diagnostic} {default}
      intx AbortVMOnVMOperationTimeoutDelay                   [ 0                         ...       9223372036854775807 ]                         {diagnostic} {default}
@@ -1097,3 +1098,4 @@ graal.VerifyKillCFGUnusedNodes = false                                   [Boolea
           Verify that there are no new unused nodes when performing killCFG
 graal.VerifyPhases = false                                               [Boolean]
 graal.ZapStackOnMethodEntry = false                                      [Boolean]
+</pre>
